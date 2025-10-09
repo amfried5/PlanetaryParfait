@@ -2580,6 +2580,12 @@ references:
   isSpec: "True"
   fullName: UserInterface.Login.FailedLogin
   nameWithType: Login.FailedLogin
+- uid: UserInterface.Login.LoggedIn
+  name: LoggedIn
+  href: api/UserInterface.Login.html#UserInterface_Login_LoggedIn
+  commentId: F:UserInterface.Login.LoggedIn
+  fullName: UserInterface.Login.LoggedIn
+  nameWithType: Login.LoggedIn
 - uid: UserInterface.Login.loginButton
   name: loginButton
   href: api/UserInterface.Login.html#UserInterface_Login_loginButton
@@ -3400,6 +3406,12 @@ references:
   commentId: F:UserInterface.TerrainMenu.LayersPrefab
   fullName: UserInterface.TerrainMenu.LayersPrefab
   nameWithType: TerrainMenu.LayersPrefab
+- uid: UserInterface.TerrainMenu.logoutButton
+  name: logoutButton
+  href: api/UserInterface.TerrainMenu.html#UserInterface_TerrainMenu_logoutButton
+  commentId: F:UserInterface.TerrainMenu.logoutButton
+  fullName: UserInterface.TerrainMenu.logoutButton
+  nameWithType: TerrainMenu.logoutButton
 - uid: UserInterface.TerrainMenu.OpenMenu
   name: OpenMenu
   href: api/UserInterface.TerrainMenu.html#UserInterface_TerrainMenu_OpenMenu
